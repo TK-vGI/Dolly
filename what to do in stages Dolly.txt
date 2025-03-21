@@ -55,4 +55,7 @@ end stage 7 */
 
 /* stage 8
 
+git diff HEAD^ HEAD     // View the changes between the previous and the last commi
+git push origin main    // Push the changes to the remote
+
 end stage 8 */
