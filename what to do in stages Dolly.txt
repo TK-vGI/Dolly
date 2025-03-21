@@ -1,0 +1,35 @@
+/* stage 1
+
+git clone file:///tmp/dolly  // Git command to clone the repository
+(git clone https://github.com/<user_name>/<Project>.git)
+(git clone https://github.com/TK-vGI/Dolly)
+
+end stage 1 */
+
+/* stage 2
+
+end stage 2 */
+
+/* stage 3
+
+end stage 3 */
+
+/* stage 4
+
+end stage 4 */
+
+/* stage 5
+
+end stage 5 */
+
+/* stage 6
+
+end stage 6 */
+
+/* stage 7
+
+end stage 7 */
+
+/* stage 8
+
+end stage 8 */
