@@ -47,6 +47,10 @@ end stage 6 */
 
 /* stage 7
 
+git switch main         // Switch to the main branch
+git merge dev-mul       // Merge the changes from the dev-mul branch
+git branch -d dev-mul   // Delete the dev-mul branch
+
 end stage 7 */
 
 /* stage 8
