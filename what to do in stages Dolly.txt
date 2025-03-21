@@ -28,6 +28,14 @@ end stage 4 */
 
 /* stage 5
 
+// add another function to main.py,
+// Add the lines to the file using echo command:
+echo 'def mul(num1, num2):' >> main.py
+echo '    return num1 * num2' >> main.py
+
+cat main.py     // View the content of the file
+git status      // Display the current state of your working directory
+
 end stage 5 */
 
 /* stage 6
