@@ -40,6 +40,9 @@ end stage 5 */
 
 /* stage 6
 
+git add main.py                                 // Add the modified file to the staging area
+git commit -m "New function multiplication"     // Commit your changes with the commit message
+
 end stage 6 */
 
 /* stage 7
