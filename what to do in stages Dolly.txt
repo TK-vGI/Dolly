@@ -15,6 +15,9 @@ end stage 2 */
 
 /* stage 3
 
+git checkout -b dev-mul // Create a branch with the name "dev-mul" and checkout to it
+git branch              // Available and current branches
+
 end stage 3 */
 
 /* stage 4
