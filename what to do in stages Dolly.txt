@@ -22,6 +22,8 @@ end stage 3 */
 
 /* stage 4
 
+cat main.py         // view the content of the file
+
 end stage 4 */
 
 /* stage 5
